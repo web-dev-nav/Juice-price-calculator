@@ -12,3 +12,7 @@ The the calculate the given output based on 3 input fields
 
 # UI
 ![image](https://user-images.githubusercontent.com/110724391/185909588-69936ce6-ece2-4f9f-be7e-6f4f081e495a.png)
+
+# Watch how it build
+![SAAS Juice vendor Date and Price Calculator](https://user-images.githubusercontent.com/110724391/185918944-2a65814b-51bb-4371-944b-342ac2ac979c.png)[Click me to go to Youtube!](https://www.youtube.com/watch?v=FfPNcX3Zhfs)
+
