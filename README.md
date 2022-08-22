@@ -1,5 +1,5 @@
 # Juice-price-calculator
-This calculator will help the buyers to calculate the next payment due date and number of juice glasses that come under the buyer given budget. Here, a buyer visit a juice shop to ask the juice seller to provide juice until a certain date, by providing him a certain amount he will provide me juice service until by balance will over.
+This calculator will help the buyers to calculate the next payment due date and number of juice glasses that come under the buyer given budget. Here, a buyer visit a juice shop to ask the juice seller to provide juice until a certain date, by providing him a certain amount the seller will provide a buyer juice service until the given  balance will over.
 
 # Required Input
 The the calculate the given output based on 3 input fields
