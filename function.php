@@ -3,7 +3,7 @@ function get_due_date($glass_rate, $order_date, $total_invest){
    $days =floor($total_invest / $glass_rate);
    $glasses = $days; 
    
-   $duedate = DateTime::createFromFormat("d-m-Y", $order_date)->add(new DateInterval('P'.$days.'D'));
+   $duedate = DateTime::createFromFormat("d-m-Y", $order_date)->add(new DateInterval('P'.$days.'D'))->modify('-1 day');
    $cost = $glass_rate * $days; 
   
    if($cost <= $total_invest){
